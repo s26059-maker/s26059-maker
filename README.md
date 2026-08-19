@@ -20,8 +20,7 @@ Java · Kotlin 기반 백엔드 개발자를 목표로 하고 있습니다.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://api.iconify.design/mdi/database.svg?color=%234479A1" width="40"/>
-
+![Database](https://img.shields.io/badge/Database-4479A1?style=for-the-badge)
 </div>
 
 <br>
